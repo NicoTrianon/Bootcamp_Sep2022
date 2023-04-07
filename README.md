@@ -10,8 +10,8 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre d
 - [x] Estadística
 - [x] Modelos Supervisados
 - [x] Modelos No Supervisados
-- [ ] Series Temporales
-- [ ] NLP
+- [x] Series Temporales
+- [x] NLP
 </p>
 </details>
 
